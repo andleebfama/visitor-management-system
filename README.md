@@ -66,9 +66,8 @@ This project was a major milestone in my professional journey. I learned real-wo
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
 
-> You can add images later like:
 > ```
 > ![Login Page](login.png)
 > ![Visitor In](visitor in.png)
