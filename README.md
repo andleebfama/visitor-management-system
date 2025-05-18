@@ -70,8 +70,8 @@ This project was a major milestone in my professional journey. I learned real-wo
 
 > You can add images later like:
 > ```
-> ![Login Page](screenshots/login.png)
-> ![Visitor In](screenshots/visitor-in.png)
+> ![Login Page](login.png)
+> ![Visitor In](visitor in.png)
 > ```
 
 ---
