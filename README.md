@@ -77,9 +77,7 @@ This project was a major milestone in my professional journey. I learned real-wo
 
 ## Contact
 
-**Andleeb Fatima**  
-Intern – IT Department  
-Service Global Footwear Limited  
+**Andleeb Fatima**
 GitHub: [@andleebfama](https://github.com/andleebfama)
 
 ---
