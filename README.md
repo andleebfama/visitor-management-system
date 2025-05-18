@@ -1,4 +1,4 @@
-# Visitor Management System (VMS)
+# Visitor Management System – Desktop Application
 
 A desktop-based Visitor Management System developed, designed to modernize and streamline visitor interactions within the company. Built using **C#**, **SQL Server**, **Crystal Reports**, and other industry-standard tools, the system enhances security, efficiency, and data visibility.
 
