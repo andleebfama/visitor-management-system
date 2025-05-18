@@ -6,7 +6,7 @@ A desktop-based Visitor Management System developed, designed to modernize and s
 
 ## Project Overview
 
-Embarking on my first major project during my internship, this system allowed me to turn theoretical knowledge into a functional and practical software solution. It automates visitor check-ins and check-outs, integrates with the employee database, and sends notifications via email and SMS — ensuring both smooth operations and secure visitor handling.
+Embarking on my first major project, this system allowed me to turn theoretical knowledge into a functional and practical software solution. It automates visitor check-ins and check-outs, integrates with the employee database, and sends notifications via email and SMS — ensuring both smooth operations and secure visitor handling.
 
 ---
 
